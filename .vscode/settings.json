@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "tm4c123gh6pm.h": "c",
+        "lights.h": "c",
+        "motor.h": "c",
+        "sound.h": "c"
+    }
+}

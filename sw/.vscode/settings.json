@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "blynk.h": "c",
+        "unified_port_init.h": "c"
+    }
+}
